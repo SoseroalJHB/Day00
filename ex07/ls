@@ -1,0 +1,13 @@
+drwxr-xr-x  4 soseroal  student  128 Jul  6 17:23 ex00
+-rw-r--r--@ 1 soseroal  student  8 Jul  6 16:46 author.text
+drwxr-xr-x  3 soseroal  student   96 Jul  6 17:00 ex01
+-rw-r--r--@ 1 soseroal  student  34 Jul  6 16:55 email.text
+drwxr-xr-x  3 soseroal  student   96 Jul  6 17:02 ex02
+-rw-r--r--@ 1 soseroal  student  8 Jul  6 16:56 slack.text
+drwxr-xr-x  3 soseroal  student   96 Jul  6 17:03 ex03
+-rw-r--r--@ 1 soseroal  student  12 Jul  6 16:57 registration.text
+drwxr-xr-x  3 soseroal  student   96 Jul  6 17:04 ex04
+-rw-r--r--@ 1 soseroal  student  20 Jul  6 16:59 kerberos.text
+drwxr-xr-x  3 soseroal  student   96 Jul  6 17:23 ex05
+-rw-r--r--@ 1 soseroal  student  85 Jul  6 17:22 vogsphere.text
+Ls -l
